@@ -1,1 +1,0 @@
-print(a2.value)
